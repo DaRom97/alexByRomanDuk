@@ -509,8 +509,8 @@ h6 {
           align-items: center;
   -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
-  padding-top: 5rem;
-  padding-bottom: 1.875rem;
+  padding-top: 5.625rem;
+  padding-bottom: 2.1875rem;
   -webkit-column-gap: 1.25rem;
      -moz-column-gap: 1.25rem;
           column-gap: 1.25rem;
@@ -589,8 +589,8 @@ h6 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding-bottom: 1.875rem;
-  padding-top: 5rem;
+  padding-bottom: 2.1875rem;
+  padding-top: 5.625rem;
 }
 
 .services__items {
@@ -655,7 +655,7 @@ h6 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding-bottom: 1.875rem;
+  padding-bottom: 2.1875rem;
   padding-top: 5.625rem;
 }
 
@@ -802,7 +802,7 @@ h6 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding-bottom: 1.875rem;
+  padding-bottom: 2.1875rem;
   padding-top: 5.625rem;
 }
 
@@ -958,7 +958,7 @@ h6 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding-bottom: 1.875rem;
+  padding-bottom: 2.1875rem;
   padding-top: 5.625rem;
 }
 
@@ -1049,7 +1049,7 @@ h6 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding-bottom: 1.875rem;
+  padding-bottom: 2.1875rem;
   padding-top: 5.625rem;
 }
 
@@ -1137,7 +1137,7 @@ h6 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding-bottom: 1.875rem;
+  padding-bottom: 2.1875rem;
   padding-top: 5.625rem;
 }
 
@@ -1261,7 +1261,7 @@ h6 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding-bottom: 1.875rem;
+  padding-bottom: 2.1875rem;
   padding-top: 5.625rem;
 }
 
